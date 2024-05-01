@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203687118973",
+    "project_id": "banshaku-setsuyaku-app",
+    "storage_bucket": "banshaku-setsuyaku-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203687118973:android:42d2956419b532ecb40914",
+        "android_client_info": {
+          "package_name": "com.example.banshaku_setsuyaku_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_JgUd_cVBN9v1kv2u64C1nxW2Op_4SwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

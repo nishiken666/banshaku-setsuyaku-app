@@ -1,0 +1,37 @@
+name: banshaku_setsuyaku_app
+description: "晩酌を缶酒から原酒に変えることでいくら節約できたかを記録するアプリ"
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.1 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  firebase_core: ^2.30.1
+  firebase_auth: ^4.18.0
+  go_router: ^13.2.2
+  shared_preferences: ^2.2.2
+  flutter_riverpod: ^2.0.0
+  riverpod_annotation: ^2.3.5
+  freezed_annotation: ^2.4.1
+  json_annotation: ^4.8.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  build_runner:
+  custom_lint:
+  riverpod_generator: ^2.4.0
+  riverpod_lint: ^2.3.10
+  freezed: ^2.5.2
+  json_serializable: ^6.7.1
+
+flutter:
+  uses-material-design: true
+  # assets:

@@ -34,4 +34,5 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  # assets:
+  assets:
+    - assets/images/init_1_view/can_change_cocktail_and_money.png
